@@ -1,0 +1,1 @@
+# Escreva uma função que encontre a interseção de duas listas (elementos comuns a ambas as listas).
